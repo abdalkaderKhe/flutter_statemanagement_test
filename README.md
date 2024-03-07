@@ -38,9 +38,9 @@ This project implements a basic Network Request and Todo-App-Like functionality,
 
 ### Submission Guide 
 
-1. **Host your code:**: please fork this repo to your own space and complete the task there on a separate, feature branch.
+1. **Host your code:** please fork this repo to your own space and complete the task there on a separate, feature branch.
 
-2. **Share the link:**: when done, issue a pull request to "your own" repo and send the link to the pull request.
+2. **Share the link:** when done, issue a pull request to "your own" repo and send the link to the pull request.
 
 Feel free to reach out if you need clarification on specific requirements.
 
