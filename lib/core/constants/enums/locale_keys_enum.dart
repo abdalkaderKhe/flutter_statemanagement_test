@@ -1,0 +1,1 @@
+enum PreferencesKeys {IS_LOGGED,USER_NAME , USER_TODOS}
